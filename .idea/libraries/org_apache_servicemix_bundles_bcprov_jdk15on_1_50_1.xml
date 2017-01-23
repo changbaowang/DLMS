@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.servicemix.bundles.bcprov-jdk15on-1.50_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/org.apache.servicemix.bundles.bcprov-jdk15on-1.50_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

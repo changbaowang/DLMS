@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/android/Source/DLMS/app/libs/org.apache.servicemix.bundles.bcprov-jdk15on-1.50_1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ac650b99374fc58db15c48fd2e50bdfd1a4e3be9">
+        <dex dex="/android/Source/DLMS/app/build/intermediates/pre-dexed/debug/org.apache.servicemix.bundles.bcprov-jdk15on-1.50_1_abfc631df3eeafcf655aba5ff24d4696d86b0182.jar" />
+    </item>
+    <item
+        jar="/android/ndk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/android/Source/DLMS/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_913660894ddf19ecc2c6fe9421f44bd712383579.jar" />
+    </item>
+
+</items>
